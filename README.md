@@ -1,6 +1,8 @@
 #### movie-analysis-dashboard
 ## TV Show/Movie Analysis Dashboard using Plotly-dash
 
+![](video.gif)
+
 I built this dashboard to visualize insights about my favorite shows/movies.
 
 ### Walkthrough:
