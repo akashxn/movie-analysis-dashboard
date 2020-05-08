@@ -10,4 +10,5 @@ I built this dashboard to visualize insights about my favorite shows/movies.
 
 ### Steps to run:
 - Run **web_scraping.py** to build datasets of all the dialogue exchanges of your favorite TV show/movie
+- (if using my datasets) copy the datasets from the datasets folder to the folder with web_scraping.py and final_code.py
 - Run **final_code.py** to implement NLP and build a dashboard
