@@ -13,7 +13,7 @@ The very first step is to gather the data. The data I am looking for looks like 
 - **Natural Language Processing**\
 I used NLP to extract _clean words_ from the dialogues and to carry out the _sentiment analysis_ for the show/movie. I also gathered other insights like 'Who used the most lines?', 'Who used the most words?', 'Most common words spoken by each character', etc.
 - **Dashboard**\
-Using _plotly-dash_, I build a dashboard to visualize all of this information together. I used pie chart to show the sentiment analysis as 'neutral', 'positive' or 'negative'; bar plots for all of the other info.\\
+Using _plotly-dash_, I build a dashboard to visualize all of this information together. I used pie chart to show the sentiment analysis as 'neutral', 'positive' or 'negative'; bar plots for all of the other info.\
 Bonus: To make it look visually good, I implemented a dark theme throughout, so I put a dark background and made the graphs transparent.
 
 ### Steps to run
