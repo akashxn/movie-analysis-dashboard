@@ -3,7 +3,9 @@
 
 ![](video.gif)
 
-I built this dashboard to visualize insights about my favorite shows/movies.
+### Abstract
+There are a lot of visualization tools like Tableau, etc that make dashboards easy to build. But what if you are restricted to using only python? Can you build an interactive dashboard using just python? Of course you can! Dash by Plotly comes to the rescue while adressing this problem. It allows you to visualize your AI & ML results, and also allows you to build interactive dashboards where user can set certain parameters to get results.
+I built this dashboard to visualize insights about my favorite shows/movies for my course EE 551 (Python Programming).
 
 ### Walkthrough:
 - **Web Scraping** - using BeautifulSoup to scrape websites and build datasets
